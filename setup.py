@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='flask-validity',
     packages=find_packages(include=['validity']),
-    version='1.0.1',
+    version='1.0.0',
     description='The robust validation library for flask',
     long_description=long_description,
     long_description_content_type="text/markdown",

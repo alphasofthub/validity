@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "name": "@alphasofthub/validity",
+    "description": "The robust validation library for flask",
+    "author": {
+        "name": "Muhammad Umer Farooq",
+        "email": "mumerfarooqlablnet01@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alphasofthub/validity"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/alphasofthub"
+    }
+}
