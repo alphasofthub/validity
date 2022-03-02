@@ -4,7 +4,7 @@ The robust validation library for flask
 
 ## Installations
 ```sh
-pip3 install lablnet/validity
+pip install flask-validity
 ```
 
 ## Usage
