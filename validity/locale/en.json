@@ -1,0 +1,13 @@
+{
+    "required": "The %s is required.",
+    "extension": "The %s extension is not allowed.",
+    "mime": "The %s mimetype is not allowed.",
+    "size": "The %s size is too large.",
+    "empty": "The %s must not be empty.",
+    "type": "The %s must be %s .",
+    "between": "The %s must be between %s and %s .",
+    "regx": "The %s must be in correct format.",
+    "phone": "The phone number should be valid.",
+    "email": "The email should be valid.",
+    "error": "Unable to decode the data."
+}
