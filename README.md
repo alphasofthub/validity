@@ -1,4 +1,5 @@
 
+
 # Flask Validity
 The robust validation library for flask
 
@@ -117,7 +118,7 @@ Thank you for considering contributing to the validity! Feel free to create a pu
 
 ### [](https://github.com/alphasofthub/cLISIRT#contrubuting-guide)Contrubuting guide
 
-[https://zestframework.github.io/contribution/](https://zestframework.github.io/contribution/)
+[Contribution Guidelines](https://github.com/alphasofthub/validity/blob/main/CONTRIBUTING.md)
 
 ## License
 - GNU GPL3
