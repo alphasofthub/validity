@@ -22,8 +22,8 @@ setup(
     },
     platforms='any',
     zip_safe=False,
-    install_requires=['flask==2.0.1'],
-    setup_requires=['pytest-runner', 'flask==2.0.1'],
-    tests_require=['pytest==4.4.1', 'flask==2.0.1'],
+    install_requires=['flask==2.3.2'],
+    setup_requires=['pytest-runner', 'flask==2.3.2'],
+    tests_require=['pytest==4.4.1', 'flask==2.3.2'],
     test_suite='tests',
 )
